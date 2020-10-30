@@ -1,0 +1,6 @@
+5
+Maria,11,fiebre,null,cansancio,dolorDeCabeza,perderGusto
+Samuel,54,null,tos,cansancio,dolorDeCabeza,perderGusto
+Felipe,17,fiebre,null,cansancio,dolorDeCabeza,null
+Sebas,45,fiebre,null,cansancio,dolorDeCabeza,null
+Felipe,5,fiebre,null,cansancio,dolorDeCabeza,null
